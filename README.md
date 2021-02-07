@@ -39,7 +39,7 @@ Our API layer works as a collection of plugins that process your GraphQL queries
 
 ### Frontend layer (SPA)
 
-Our frontend (SPA) layer is powered by React and Apollo Client. If you ever developed using those tools - you already know Webiny 🙂
+Our frontend (SPA) layer is powered by React and Apollo Client. If you have ever developed using those tools - you already know Webiny 🙂.
 As our UI library we are using Material Components and [RMWC](https://jamesmfriedman.github.io/rmwc/) to get going with Material faster.
 You can see all the currently available components in our [storybook](https://storybook.webiny.com/).
 
